@@ -1,0 +1,3 @@
+# ignores executable, pdb files
+*.exe
+*.pdb
